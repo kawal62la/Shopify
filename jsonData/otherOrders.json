@@ -1,0 +1,705 @@
+{
+    "order": {
+        "id": 5512136687907,
+        "admin_graphql_api_id": "gid:\/\/shopify\/Order\/5512136687907",
+        "app_id": 580111,
+        "browser_ip": "166.199.99.59",
+        "number": 61,
+        "order_number": 1061,
+        "line_items": [
+            {
+                "id": 14212759585059,
+                "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/14212759585059",
+                "fulfillable_quantity": 1,
+                "fulfillment_service": "manual",
+                "fulfillment_status": null,
+                "gift_card": false,
+                "grams": 5,
+                "name": "Free DTF Transfer Sample",
+                "price": "0.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "USD"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "USD"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 8617691939107,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "",
+                "taxable": true,
+                "title": "Free DTF Transfer Sample",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "USD"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "USD"
+                    }
+                },
+                "variant_id": 46387786842403,
+                "variant_inventory_management": "shopify",
+                "variant_title": null,
+                "vendor": "Rolled Up Printing",
+                "tax_lines": [
+                    {
+                        "channel_liable": false,
+                        "price": "0.00",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "0.00",
+                                "currency_code": "USD"
+                            },
+                            "presentment_money": {
+                                "amount": "0.00",
+                                "currency_code": "USD"
+                            }
+                        },
+                        "rate": 0.04225,
+                        "title": "Missouri State Tax"
+                    },
+                    {
+                        "channel_liable": false,
+                        "price": "0.00",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "0.00",
+                                "currency_code": "USD"
+                            },
+                            "presentment_money": {
+                                "amount": "0.00",
+                                "currency_code": "USD"
+                            }
+                        },
+                        "rate": 0.01375,
+                        "title": "Jasper County Tax"
+                    },
+                    {
+                        "channel_liable": false,
+                        "price": "0.00",
+                        "price_set": {        
+                            "shop_money": {
+                                "amount": "0.00",
+                                "currency_code": "USD"
+                            },
+                            "presentment_money": {
+                                "amount": "0.00",
+                                "currency_code": "USD"
+                            }
+                        },
+                        "rate": 0.03125,
+                        "title": "Joplin City Tax"
+                    }
+                ],
+                "duties": [],
+                "discount_allocations": []
+            }
+        ]
+    },
+    
+        "order1": {
+            "id": 5512387199267,
+            "admin_graphql_api_id": "gid:\/\/shopify\/Order\/5512387199267",
+            "name": "#1062",
+            "order_number": 1062,
+            "order_status_url": "https:\/\/rolledupprinting.com\/74335191331\/orders\/1618b6d2a20fedad5d05073ce4ad7b85\/authenticate?key=571db522c6b23c69f14c7624d39ec9a1",
+            "original_total_duties_set": null,
+            "line_items": [
+                {
+                    "id": 14213178818851,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/14213178818851",
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "Build Your Own DTF Gang Sheet - 22 in X 96 in",
+                    "price": "103.99",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "103.99",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "103.99",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8547197255971,
+                    "properties": [
+                        {
+                            "name": "Preview Gang Sheet (Low Res)",
+                            "value": "https:\/\/app.dripappsserver.com\/preview\/38f3208e-5c60-412c-b71a-b7eb99016c1c.png"
+                        },
+                        {
+                            "name": "Edit Gang Sheet",
+                            "value": "https:\/\/app.dripappsserver.com\/builder\/edit?shop=rolled-up-printing.myshopify.com\u0026domain=rolledupprinting.com\u0026design_id=38f3208e-5c60-412c-b71a-b7eb99016c1c"
+                        },
+                        {
+                            "name": "_Print Ready File",
+                            "value": "https:\/\/app.dripappsserver.com\/uploads\/38f3208e-5c60-412c-b71a-b7eb99016c1c.png"
+                        },
+                        {
+                            "name": "_Has Overlapping",
+                            "value": "No"
+                        },
+                        {
+                            "name": "_Has Low Resolution",
+                            "value": "No"
+                        }
+                    ],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "Build Your Own DTF Gang Sheet",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46166836248867,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": "22 in X 96 in",
+                    "vendor": "Rolled Up Printing",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.72",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.72",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.72",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.01375,
+                            "title": "Jasper County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "1.63",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "1.63",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "1.63",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.03125,
+                            "title": "Joplin City Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "2.20",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "2.20",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "2.20",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.04225,
+                            "title": "Missouri State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": [
+                        {
+                            "amount": "51.99",
+                            "amount_set": {
+                                "shop_money": {
+                                    "amount": "51.99",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "51.99",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "discount_application_index": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "order2":{
+            "id": 5512062730531,
+            "created_at": "2023-09-28T11:04:25-05:00",
+            "name": "#1060",
+            "order_number": 1060,
+            "line_items": [
+                {
+                    "id": 14212642504995,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/14212642504995",
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 4536,
+                    "name": "Banners - 4' x 8' \/ Grommets",
+                    "price": "117.99",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "117.99",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "117.99",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8274928173347,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "Banners",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 44842204594467,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": "4' x 8' \/ Grommets",
+                    "vendor": "Rolled Up Printing",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "1.62",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "1.62",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "1.62",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.01375,
+                            "title": "Jasper County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "3.69",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "3.69",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "3.69",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.03125,
+                            "title": "Joplin City Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "4.99",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "4.99",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "4.99",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.04225,
+                            "title": "Missouri State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ] 
+        },
+        "order3":{
+            "id": 5471617286435,
+            "created_at": "2023-09-17T08:49:20-05:00",
+            "name": "#1023",
+            "order_number": 1023,
+            "line_items": [
+                {
+                    "id": 14134752510243,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/14134752510243",
+                    "fulfillable_quantity": 0,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": "fulfilled",
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "Upload Your Own Gang Sheet - 22 in X 60 in",
+                    "price": "74.99",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "74.99",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "74.99",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8589864272163,
+                    "properties": [
+                        {
+                            "name": "File Upload 1",
+                            "value": "https:\/\/cdn.shopify.com\/s\/files\/1\/0515\/2384\/6340\/t\/96\/assets\/newDownload.html?ph_image=fd2a03eb-9c6b-4129-8a7c-bc7a18bd21b2\u0026ph_name=g_a_n_g_%20_s_h_e_e_t\u0026crop=null\u0026extension=p=n=g\u0026live=true"
+                        }
+                    ],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": null,
+                    "taxable": true,
+                    "title": "Upload Your Own Gang Sheet",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46283198726435,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": "22 in X 60 in",
+                    "vendor": "Rolled Up Printing",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.52",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.52",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.52",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.01375,
+                            "title": "Jasper County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "1.17",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "1.17",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "1.17",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.03125,
+                            "title": "Joplin City Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "1.58",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "1.58",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "1.58",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.04225,
+                            "title": "Missouri State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": [
+                        {
+                            "amount": "37.49",
+                            "amount_set": {
+                                "shop_money": {
+                                    "amount": "37.49",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "37.49",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "discount_application_index": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 14134752543011,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/14134752543011",
+                    "fulfillable_quantity": 0,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": "fulfilled",
+                    "gift_card": false,
+                    "grams": 5,
+                    "name": "Free DTF Transfer Sample",
+                    "price": "0.00",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8617691939107,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "Free DTF Transfer Sample",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46387786842403,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Rolled Up Printing",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.01375,
+                            "title": "Jasper County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.03125,
+                            "title": "Joplin City Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.04225,
+                            "title": "Missouri State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ]
+        },
+
+        "order4":{
+            "id": 5480591065379,
+            "created_at": "2023-09-20T11:19:06-05:00",
+            "name": "#1031",
+            "order_number": 1031,
+            "line_items": [
+                {
+                    "id": 14153021292835,
+                    "admin_graphql_api_id": "gid:\/\/shopify\/LineItem\/14153021292835",
+                    "fulfillable_quantity": 0,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": "fulfilled",
+                    "gift_card": false,
+                    "grams": 0,
+                    "name": "Build Your Own DTF Gang Sheet - 22 in X 240 in",
+                    "price": "164.99",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "164.99",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "164.99",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8547197255971,
+                    "properties": [
+                        {
+                            "name": "Preview Gang Sheet (Low Res)",
+                            "value": "https:\/\/app.dripappsserver.com\/preview\/1181887b-dde8-4c2a-b0e0-a96ab7bf2783.png"
+                        },
+                        {
+                            "name": "Edit Gang Sheet",
+                            "value": "https:\/\/app.dripappsserver.com\/builder\/edit?shop=rolled-up-printing.myshopify.com\u0026domain=rolledupprinting.com\u0026design_id=1181887b-dde8-4c2a-b0e0-a96ab7bf2783"
+                        }
+                    ],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "Build Your Own DTF Gang Sheet",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46134312239395,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": "22 in X 240 in",
+                    "vendor": "Rolled Up Printing",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "1.13",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "1.13",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "1.13",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.01375,
+                            "title": "Jasper County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "2.58",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "2.58",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "2.58",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.03125,
+                            "title": "Joplin City Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "3.49",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "3.49",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "3.49",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.04225,
+                            "title": "Missouri State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": [
+                        {
+                            "amount": "82.49",
+                            "amount_set": {
+                                "shop_money": {
+                                    "amount": "82.49",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "82.49",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "discount_application_index": 0
+                        }
+                    ]
+                }
+            ]
+        }
+       
+}

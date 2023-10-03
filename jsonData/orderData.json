@@ -1,0 +1,637 @@
+{
+    "order": {
+      "id": "5515847205155",
+      "admin_graphql_api_id": "gid://shopify/Order/5515847205155",
+      "app_id": 580111,
+      "browser_ip": "146.7.117.192",
+      "buyer_accepts_marketing": false,
+      "cancel_reason": null,
+      "cancelled_at": null,
+      "cart_token": "c1-c40f1cacd0f5f54e91c147740f3ecb7c",
+      "checkout_id": {
+        "$numberLong": "36912029892899"
+      },
+      "checkout_token": "72825c2cea99a2cb5c7b339ad9aa00f0",
+      "client_details": {
+        "accept_language": "en-US",
+        "browser_height": null,
+        "browser_ip": "146.7.117.192",
+        "browser_width": null,
+        "session_hash": null,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41"
+      },
+      "closed_at": null,
+      "confirmation_number": "A5DIETZUI",
+      "confirmed": true,
+      "contact_email": "management@missouristate.edu",
+      "created_at": "2023-10-02T08:35:58-05:00",
+      "currency": "USD",
+      "current_subtotal_price": "16.50",
+      "current_subtotal_price_set": {
+        "shop_money": {
+          "amount": "16.50",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "16.50",
+          "currency_code": "USD"
+        }
+      },
+      "current_total_additional_fees_set": null,
+      "current_total_discounts": "16.49",
+      "current_total_discounts_set": {
+        "shop_money": {
+          "amount": "16.49",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "16.49",
+          "currency_code": "USD"
+        }
+      },
+      "current_total_duties_set": null,
+      "current_total_price": "27.94",
+      "current_total_price_set": {
+        "shop_money": {
+          "amount": "27.94",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "27.94",
+          "currency_code": "USD"
+        }
+      },
+      "current_total_tax": "1.45",
+      "current_total_tax_set": {
+        "shop_money": {
+          "amount": "1.45",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "1.45",
+          "currency_code": "USD"
+        }
+      },
+      "customer_locale": "en-US",
+      "device_id": null,
+      "discount_codes": [],
+      "email": "management@missouristate.edu",
+      "estimated_taxes": false,
+      "financial_status": "paid",
+      "fulfillment_status": null,
+      "landing_site": "/",
+      "landing_site_ref": null,
+      "location_id": null,
+      "merchant_of_record_app_id": null,
+      "name": "#1068",
+      "note": null,
+      "note_attributes": [
+        {
+          "name": "Agreed to the Terms and Conditions on",
+          "value": "Mon Oct 02 2023 08:34:23 GMT-0500 (Central Daylight Time)"
+        }
+      ],
+      "number": 68,
+      "order_number": 1068,
+      "order_status_url": "https://rolledupprinting.com/74335191331/orders/1aff4b97d490693b634261567bf94d12/authenticate?key=e7a456e2e9bb9df79e092332316c9f2e",
+      "original_total_additional_fees_set": null,
+      "original_total_duties_set": null,
+      "payment_gateway_names": [
+        "shopify_payments"
+      ],
+      "phone": null,
+      "po_number": null,
+      "presentment_currency": "USD",
+      "processed_at": "2023-10-02T08:35:55-05:00",
+      "reference": "caf6403d5a0f4d83f564c7fd224a09a5",
+      "referring_site": "https://www.bing.com/",
+      "source_identifier": "caf6403d5a0f4d83f564c7fd224a09a5",
+      "source_name": "web",
+      "source_url": null,
+      "subtotal_price": "16.50",
+      "subtotal_price_set": {
+        "shop_money": {
+          "amount": "16.50",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "16.50",
+          "currency_code": "USD"
+        }
+      },
+      "tags": "",
+      "tax_exempt": false,
+      "tax_lines": [
+        {
+          "price": "0.23",
+          "rate": 0.01375,
+          "title": "Jasper County Tax",
+          "price_set": {
+            "shop_money": {
+              "amount": "0.23",
+              "currency_code": "USD"
+            },
+            "presentment_money": {
+              "amount": "0.23",
+              "currency_code": "USD"
+            }
+          },
+          "channel_liable": false
+        },
+        {
+          "price": "0.52",
+          "rate": 0.03125,
+          "title": "Joplin City Tax",
+          "price_set": {
+            "shop_money": {
+              "amount": "0.52",
+              "currency_code": "USD"
+            },
+            "presentment_money": {
+              "amount": "0.52",
+              "currency_code": "USD"
+            }
+          },
+          "channel_liable": false
+        },
+        {
+          "price": "0.70",
+          "rate": 0.04225,
+          "title": "Missouri State Tax",
+          "price_set": {
+            "shop_money": {
+              "amount": "0.70",
+              "currency_code": "USD"
+            },
+            "presentment_money": {
+              "amount": "0.70",
+              "currency_code": "USD"
+            }
+          },
+          "channel_liable": false
+        }
+      ],
+      "taxes_included": false,
+      "test": false,
+      "token": "1aff4b97d490693b634261567bf94d12",
+      "total_discounts": "16.49",
+      "total_discounts_set": {
+        "shop_money": {
+          "amount": "16.49",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "16.49",
+          "currency_code": "USD"
+        }
+      },
+      "total_line_items_price": "32.99",
+      "total_line_items_price_set": {
+        "shop_money": {
+          "amount": "32.99",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "32.99",
+          "currency_code": "USD"
+        }
+      },
+      "total_outstanding": "0.00",
+      "total_price": "27.94",
+      "total_price_set": {
+        "shop_money": {
+          "amount": "27.94",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "27.94",
+          "currency_code": "USD"
+        }
+      },
+      "total_shipping_price_set": {
+        "shop_money": {
+          "amount": "9.99",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "9.99",
+          "currency_code": "USD"
+        }
+      },
+      "total_tax": "1.45",
+      "total_tax_set": {
+        "shop_money": {
+          "amount": "1.45",
+          "currency_code": "USD"
+        },
+        "presentment_money": {
+          "amount": "1.45",
+          "currency_code": "USD"
+        }
+      },
+      "total_tip_received": "0.00",
+      "total_weight": 0,
+      "updated_at": "2023-10-02T08:36:01-05:00",
+      "user_id": null,
+      "billing_address": {
+        "first_name": "Janeen",
+        "address1": "901 S National Ave",
+        "phone": null,
+        "city": "SPRINGFIELD",
+        "zip": "65897",
+        "province": "Missouri",
+        "country": "United States",
+        "last_name": "Michalak",
+        "address2": "Glass Hall 414",
+        "company": null,
+        "latitude": 37.2005546,
+        "longitude": -93.2806806,
+        "name": "Janeen Michalak",
+        "country_code": "US",
+        "province_code": "MO"
+      },
+      "customer": {
+        "id": {
+          "$numberLong": "7469893845283"
+        },
+        "email": "management@missouristate.edu",
+        "accepts_marketing": false,
+        "created_at": "2023-09-27T16:50:12-05:00",
+        "updated_at": "2023-10-02T08:35:59-05:00",
+        "first_name": "Janeen",
+        "last_name": "Michalak",
+        "state": "disabled",
+        "note": null,
+        "verified_email": true,
+        "multipass_identifier": null,
+        "tax_exempt": false,
+        "phone": null,
+        "email_marketing_consent": {
+          "state": "not_subscribed",
+          "opt_in_level": "single_opt_in",
+          "consent_updated_at": null
+        },
+        "sms_marketing_consent": null,
+        "tags": "",
+        "currency": "USD",
+        "accepts_marketing_updated_at": "2023-09-27T16:50:12-05:00",
+        "marketing_opt_in_level": null,
+        "tax_exemptions": [],
+        "admin_graphql_api_id": "gid://shopify/Customer/7469893845283",
+        "default_address": {
+          "id": {
+            "$numberLong": "9555523109155"
+          },
+          "customer_id": {
+            "$numberLong": "7469893845283"
+          },
+          "first_name": "Janeen",
+          "last_name": "Michalak",
+          "company": null,
+          "address1": "901 S National Ave",
+          "address2": "Glass Hall 414",
+          "city": "SPRINGFIELD",
+          "province": "Missouri",
+          "country": "United States",
+          "zip": "65897",
+          "phone": null,
+          "name": "Janeen Michalak",
+          "province_code": "MO",
+          "country_code": "US",
+          "country_name": "United States",
+          "default": true
+        }
+      },
+      "discount_applications": [
+        {
+          "target_type": "line_item",
+          "type": "automatic",
+          "value": "50.0",
+          "value_type": "percentage",
+          "allocation_method": "across",
+          "target_selection": "entitled",
+          "title": "DTF 50% Off"
+        }
+      ],
+      "fulfillments": [],
+      "line_items": [
+        {
+          "id": {
+            "$numberLong": "14218432119075"
+          },
+          "admin_graphql_api_id": "gid://shopify/LineItem/14218432119075",
+          "attributed_staffs": [],
+          "fulfillable_quantity": 1,
+          "fulfillment_service": "manual",
+          "fulfillment_status": null,
+          "gift_card": false,
+          "grams": 0,
+          "name": "Build Your Own DTF Gang Sheet - 22 in X 24 in",
+          "price": "32.99",
+          "price_set": {
+            "shop_money": {
+              "amount": "32.99",
+              "currency_code": "USD"
+            },
+            "presentment_money": {
+              "amount": "32.99",
+              "currency_code": "USD"
+            }
+          },
+          "product_exists": true,
+          "product_id": "8547197255971",
+          "properties": [
+            {
+              "name": "Preview Gang Sheet (Low Res)",
+              "value": "https://app.dripappsserver.com/preview/c84a99ab-cd0c-495a-9cb0-382e15fe8456.png"
+            },
+            {
+              "name": "Edit Gang Sheet",
+              "value": "https://app.dripappsserver.com/builder/edit?shop=rolled-up-printing.myshopify.com&domain=rolledupprinting.com&design_id=c84a99ab-cd0c-495a-9cb0-382e15fe8456"
+            },
+            {
+              "name": "_Print Ready File",
+              "value": "https://app.dripappsserver.com/uploads/c84a99ab-cd0c-495a-9cb0-382e15fe8456.png"
+            },
+            {
+              "name": "_Has Overlapping",
+              "value": "No"
+            },
+            {
+              "name": "_Has Low Resolution",
+              "value": "Yes"
+            }
+          ],
+          "quantity": 1,
+          "requires_shipping": true,
+          "sku": "",
+          "taxable": true,
+          "title": "Build Your Own DTF Gang Sheet",
+          "total_discount": "0.00",
+          "total_discount_set": {
+            "shop_money": {
+              "amount": "0.00",
+              "currency_code": "USD"
+            },
+            "presentment_money": {
+              "amount": "0.00",
+              "currency_code": "USD"
+            }
+          },
+          "variant_id": {
+            "$numberLong": "46166837625123"
+          },
+          "variant_inventory_management": "shopify",
+          "variant_title": "22 in X 24 in",
+          "vendor": "Rolled Up Printing",
+          "tax_lines": [
+            {
+              "channel_liable": false,
+              "price": "0.23",
+              "price_set": {
+                "shop_money": {
+                  "amount": "0.23",
+                  "currency_code": "USD"
+                },
+                "presentment_money": {
+                  "amount": "0.23",
+                  "currency_code": "USD"
+                }
+              },
+              "rate": 0.01375,
+              "title": "Jasper County Tax"
+            },
+            {
+              "channel_liable": false,
+              "price": "0.52",
+              "price_set": {
+                "shop_money": {
+                  "amount": "0.52",
+                  "currency_code": "USD"
+                },
+                "presentment_money": {
+                  "amount": "0.52",
+                  "currency_code": "USD"
+                }
+              },
+              "rate": 0.03125,
+              "title": "Joplin City Tax"
+            },
+            {
+              "channel_liable": false,
+              "price": "0.70",
+              "price_set": {
+                "shop_money": {
+                  "amount": "0.70",
+                  "currency_code": "USD"
+                },
+                "presentment_money": {
+                  "amount": "0.70",
+                  "currency_code": "USD"
+                }
+              },
+              "rate": 0.04225,
+              "title": "Missouri State Tax"
+            }
+          ],
+          "duties": [],
+          "discount_allocations": [
+            {
+              "amount": "16.49",
+              "amount_set": {
+                "shop_money": {
+                  "amount": "16.49",
+                  "currency_code": "USD"
+                },
+                "presentment_money": {
+                  "amount": "16.49",
+                  "currency_code": "USD"
+                }
+              },
+              "discount_application_index": 0
+            }
+          ]
+        },
+        {
+          "id": {
+            "$numberLong": "14221290045731"
+          },
+          "admin_graphql_api_id": "gid://shopify/LineItem/14221290045731",
+          "attributed_staffs": [],
+          "fulfillable_quantity": 1,
+          "fulfillment_service": "manual",
+          "fulfillment_status": null,
+          "gift_card": false,
+          "grams": 0,
+          "name": "Upload Your Own Gang Sheet - 22 in X 240 in",
+          "price": "164.99",
+          "price_set": {
+            "shop_money": {
+              "amount": "164.99",
+              "currency_code": "USD"
+            },
+            "presentment_money": {
+              "amount": "164.99",
+              "currency_code": "USD"
+            }
+          },
+          "product_exists": true,
+          "product_id": {
+            "$numberLong": "8589864272163"
+          },
+          "properties": [
+            {
+              "name": "File Upload 1",
+              "value": "https://cdn.shopify.com/s/files/1/0515/2384/6340/t/96/assets/newDownload.html?ph_image=0c5b65ea-1327-496f-8794-8f1bcd6f214a&ph_name=d_t_f_1_0_2&crop=null&extension=p=n=g&live=true"
+            }
+          ],
+          "quantity": 1,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": true,
+          "title": "Upload Your Own Gang Sheet",
+          "total_discount": "0.00",
+          "total_discount_set": {
+            "shop_money": {
+              "amount": "0.00",
+              "currency_code": "USD"
+            },
+            "presentment_money": {
+              "amount": "0.00",
+              "currency_code": "USD"
+            }
+          },
+          "variant_id": {
+            "$numberLong": "46283198497059"
+          },
+          "variant_inventory_management": "shopify",
+          "variant_title": "22 in X 240 in",
+          "vendor": "Rolled Up Printing",
+          "tax_lines": [],
+          "duties": [],
+          "discount_allocations": [
+            {
+              "amount": "90.74",
+              "amount_set": {
+                "shop_money": {
+                  "amount": "90.74",
+                  "currency_code": "USD"
+                },
+                "presentment_money": {
+                  "amount": "90.74",
+                  "currency_code": "USD"
+                }
+              },
+              "discount_application_index": 0
+            }
+          ]
+        }
+      ],
+      "payment_terms": null,
+      "refunds": [],
+      "shipping_address": {
+        "first_name": "Janeen",
+        "address1": "901 S National Ave",
+        "phone": null,
+        "city": "SPRINGFIELD",
+        "zip": "65897",
+        "province": "Missouri",
+        "country": "United States",
+        "last_name": "Michalak",
+        "address2": "Glass Hall 414",
+        "company": null,
+        "latitude": null,
+        "longitude": null,
+        "name": "Janeen Michalak",
+        "country_code": "US",
+        "province_code": "MO"
+      },
+      "shipping_lines": [
+        {
+          "id": {
+            "$numberLong": "4505486098723"
+          },
+          "carrier_identifier": "650f1a14fa979ec5c74d063e968411d4",
+          "code": "Standard",
+          "discounted_price": "9.99",
+          "discounted_price_set": {
+            "shop_money": {
+              "amount": "9.99",
+              "currency_code": "USD"
+            },
+            "presentment_money": {
+              "amount": "9.99",
+              "currency_code": "USD"
+            }
+          },
+          "phone": null,
+          "price": "9.99",
+          "price_set": {
+            "shop_money": {
+              "amount": "9.99",
+              "currency_code": "USD"
+            },
+            "presentment_money": {
+              "amount": "9.99",
+              "currency_code": "USD"
+            }
+          },
+          "requested_fulfillment_service_id": null,
+          "source": "shopify",
+          "title": "Standard",
+          "tax_lines": [
+            {
+              "channel_liable": false,
+              "price": "0.00",
+              "price_set": {
+                "shop_money": {
+                  "amount": "0.00",
+                  "currency_code": "USD"
+                },
+                "presentment_money": {
+                  "amount": "0.00",
+                  "currency_code": "USD"
+                }
+              },
+              "rate": 0.01375,
+              "title": "Jasper County Tax"
+            },
+            {
+              "channel_liable": false,
+              "price": "0.00",
+              "price_set": {
+                "shop_money": {
+                  "amount": "0.00",
+                  "currency_code": "USD"
+                },
+                "presentment_money": {
+                  "amount": "0.00",
+                  "currency_code": "USD"
+                }
+              },
+              "rate": 0.03125,
+              "title": "Joplin City Tax"
+            },
+            {
+              "channel_liable": false,
+              "price": "0.00",
+              "price_set": {
+                "shop_money": {
+                  "amount": "0.00",
+                  "currency_code": "USD"
+                },
+                "presentment_money": {
+                  "amount": "0.00",
+                  "currency_code": "USD"
+                }
+              },
+              "rate": 0.04225,
+              "title": "Missouri State Tax"
+            }
+          ],
+          "discount_allocations": []
+        }
+      ]
+    }
+  }
+  
